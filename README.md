@@ -11,21 +11,21 @@ I'm excited to connect with like-minded individuals and collaborate on projects 
 **Skills**
 ------------
 
-* Programming languages: [list your programming languages, e.g., "JavaScript, Python, Java"]
-* Technologies: [list your technologies, e.g., "Node.js, React, Django"]
-* Interests: [list your interests, e.g., "Machine Learning, Web Development, Gaming"]
+* Programming languages: [JavaScript, Python, Html and CSS"]
+* Technologies: ["Node.js, React, Django, Pandas, Pyautogui, Pygame"]
+* Interests: ["Machine Learning, Web Development, Gaming"]
 
 **Projects**
 -------------
 
-* [Project 1]: [briefly describe your project, e.g., "A chatbot built with Node.js and Dialogflow"]
-* [Project 2]: [briefly describe your project, e.g., "A web scraper built with Python and BeautifulSoup"]
+* [Project 1]: ["A chatbot built with Node.js and Dialogflow"]
+* [Project 2]: ["A web scraper built with Python and BeautifulSoup"]
 
 **Fun Facts**
 --------------
 
-* [fun fact about yourself, e.g., "I'm a coffee aficionado"]
-* [fun fact about yourself, e.g., "I'm a competitive gamer"]
+* ["I'm a coffee aficionado"]
+* ["I'm a competitive gamer"]
 
 **Get in Touch**
 -----------------
