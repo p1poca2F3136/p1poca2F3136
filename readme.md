@@ -35,4 +35,4 @@ I’m always eager to learn, improve, and explore new technologies in the world 
 - 🎓 **Computer Science student**  
 - 🖥️ Always seeking new challenges  
 - 🐱 Cat lover & nature admirer  
-- 📫 Reach me at: **seuemail@exemplo.com**
+- 📫 Reach me at:
