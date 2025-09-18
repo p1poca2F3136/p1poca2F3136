@@ -31,7 +31,7 @@ I’m always eager to learn, improve, and explore new technologies in the world 
 
 ---
 
-## 🌍 About Me
+## 🌍 Personal Info
 - 🎓 **Computer Science student**  
 - 🖥️ Always seeking new challenges  
 - 🐱 Cat lover & nature admirer  
