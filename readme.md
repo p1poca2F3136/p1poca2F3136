@@ -1,9 +1,38 @@
-# About Me
+# 👋 About Me
 
-Hello! I'm Ryan, aspiring developer with a passion for programming in Python, JavaScript, HTML, and CSS. I'm always eager to learn new skills and expand my knowledge in the world of technology.
+Hello! I'm **Ryan Alexandre**, a **Computer Science student** passionate about creating solutions with **Python, JavaScript, HTML, and CSS**.  
+I’m always eager to learn, improve, and explore new technologies in the world of programming.
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=p1poca2F3136&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1poca2F3136&hide=compact_progress=false)
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Databases:** MySQL  
+- **Tools:** GitHub Desktop, VS Code  
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyanDev)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 GitHub Insights
+<div align="center">
+  
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1poca2F3136&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1poca2F3136&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+<div align="center">
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 🌍 About Me
+- 🎓 **Computer Science student**  
+- 🖥️ Always seeking new challenges  
+- 🐱 Cat lover & nature admirer  
+- 📫 Reach me at: **seuemail@exemplo.com**
