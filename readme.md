@@ -64,16 +64,15 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/p1poca2F3136/p1poca2F3136/output/github-contribution-grid-snake.svg" />
-
-<img src="https://ghchart.rshah.org/p1poca2F3136" />
+![Activity](https://activity-graph.herokuapp.com/graph?username=p1poca2F3136&theme=tokyonight)
 
 </div>
 
 ---
+
 
 # 📈 More Metrics
 
