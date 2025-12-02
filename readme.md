@@ -64,11 +64,12 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 ---
 
-# 🐍 Contribution Snake
-
+## 🐍 Contribution Snake
 <div align="center">
 
-![Snake animation](https://github.com/p1poca2F3136/p1poca2F3136/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/p1poca2F3136/p1poca2F3136/output/github-contribution-grid-snake.svg" />
+
+<img src="https://ghchart.rshah.org/p1poca2F3136" />
 
 </div>
 
