@@ -1,42 +1,35 @@
-<!-- BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ryan+Alexandre!;Computer+Science+Student;Python+%7C+JavaScript+Developer;Always+learning+new+techs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=700&lines=Ryan+Alexandre;Full+Stack+Learner;Python+%7C+JavaScript+Developer;Always+Building+Cool+Stuff" />
 </div>
 
 ---
 
 # 👋 About Me
-
-Hello! I'm **Ryan Alexandre**, a **Computer Science student** passionate about building modern and functional solutions using **Python, JavaScript, HTML, and CSS**.  
-I love exploring new technologies, building bots, websites, and automations, and constantly improving my skills.
+Hi! I'm **Ryan Alexandre**, a developer who loves building tools, scripts, websites, bots and experimenting with tech.
 
 ---
 
-# 🛠️ Tech Stack
-
+## 🏷️ Badges
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,nodejs,git,vscode,pycharm&theme=dark"/>
-
+  <img src="https://img.shields.io/github/followers/p1poca2F3136?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/p1poca2F3136?style=for-the-badge" />
+  <img src="https://img.shields.io/github/public-repos/p1poca2F3136?style=for-the-badge" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=p1poca2F3136.p1poca2F3136" />
 </div>
 
 ---
 
-# 🚀 What I Do
-
-- 🧠 Backend development in **Python & JS**  
-- 🌐 Web development (HTML, CSS, JS)  
-- 🔧 Automation scripts  
-- 💾 Databases with **MySQL**  
-- 📱 Creative and modern interfaces  
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,nodejs,git,vscode,pycharm,docker&theme=dark" />
+</div>
 
 ---
 
-# 📊 GitHub Insights
-
+## 🚀 GitHub Stats
 <div align="center">
   
-![Ryan's GitHub stats](https://teste-rust-zeta.vercel.app/api?username=p1poca2F3136&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github)
+![Stats](https://teste-rust-zeta.vercel.app/api?username=p1poca2F3136&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top Langs](https://teste-rust-zeta.vercel.app/api/top-langs/?username=p1poca2F3136&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -44,57 +37,64 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 ---
 
-# ⏱️ Coding Activity
-
+## ⏱️ WakaTime
 <div align="center">
 
-![WakaTime stats](https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)
+![Waka](https://teste-rust-zeta.vercel.app/api/wakatime?username=ryanalexandre&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-# 🏆 Trophies
+## 💻 Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge" />
+</div>
 
+---
+
+## 🏆 Achievements
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=p1poca2F3136&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=p1poca2F3136&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+
+<br/>
+
+![Streak](https://streak-stats.demolab.com?user=p1poca2F3136&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
+## 🐍 Contribution Snake
 <div align="center">
 
-![Snake animation](https://github.com/p1poca2F3136/p1poca2F3136/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/p1poca2F3136/p1poca2F3136/output/github-contribution-grid-snake.svg" />
+
+<img src="https://ghchart.rshah.org/p1poca2F3136" />
 
 </div>
 
 ---
 
-# 📈 More Metrics
-
+## 📈 Activity Graph
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=p1poca2F3136&theme=tokyonight&hide_border=true)
+![Activity](https://activity-graph.herokuapp.com/graph?username=p1poca2F3136&theme=tokyonight)
 
 </div>
 
 ---
 
-# 🌍 Personal Info
-
-- 🎓 **Computer Science student**  
-- 🖥️ Passionate about software development  
-- 🐱 Cat lover & nature enjoyer  
-- 📫 Contact me:  
+## 🔗 Contact
+<div align="center">
+  <a href="https://github.com/p1poca2F3136"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.com/users/SEU_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
+</div>
 
 ---
-
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-</div>
