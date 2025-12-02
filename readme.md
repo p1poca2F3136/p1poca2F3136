@@ -96,7 +96,7 @@ I love exploring new technologies, building bots, websites, and automations, and
 <div align="center">
   <a href="https://github.com/p1poca2F3136"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://discord.com/users/SEU_DISCORD"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.com/users/aryc5353"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 ---
