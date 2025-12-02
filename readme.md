@@ -75,7 +75,7 @@ I love exploring new technologies, building bots, websites, and automations, and
 ---
 
 
-# 📈 More Metrics
+# 🌺 More Metrics
 
 <div align="center">
 
