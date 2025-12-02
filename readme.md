@@ -8,7 +8,7 @@ I’m always eager to learn, improve, and explore new technologies in the world 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Databases:** MySQL  
-- **Tools:** GitHub Desktop, VS Code  
+- **Tools:** GitHub Desktop, Visual Studio Code, PyCharm.  
 
 ---
 
@@ -35,4 +35,4 @@ I’m always eager to learn, improve, and explore new technologies in the world 
 - 🎓 **Computer Science student**  
 - 🖥️ Always seeking new challenges  
 - 🐱 Cat lover & nature admirer  
-- 📫 Reach me at:
+- 📫 Reach me at: 
