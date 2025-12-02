@@ -25,7 +25,7 @@ I’m always eager to learn, improve, and explore new technologies in the world 
 ## ⏱️ Coding Activity
 <div align="center">
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryanalexandre&theme=tokyonight&hide_border=true)](https://wakatime.com/@ryanalexandre)
 
 </div>
 
