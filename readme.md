@@ -104,6 +104,6 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!!!
+### 🚀 If you give up, you’ll let them win.
 
 </div>
