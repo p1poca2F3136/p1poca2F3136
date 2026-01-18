@@ -1,79 +1,77 @@
-<!-- BANNER -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ryan+Alexandre!;Computer+Science+Student;Python+%7C+JavaScript+Developer;Always+learning+new+techs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Ryan+Alexandre;Computer+Science+Student;Python+and+JavaScript+Developer;Focused+on+clean+and+functional+solutions" />
 </div>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Ryan Alexandre**, a **Computer Science student** passionate about building modern and functional solutions using **Python, JavaScript, HTML, and CSS**.  
-I love exploring new technologies, building bots, websites, and automations, and constantly improving my skills.
+I'm **Ryan Alexandre**, a **Computer Science student** focused on building **clean, functional, and well-structured software**.  
+I work mainly with **Python and JavaScript**, developing back-end logic, web applications, automation scripts, and database-driven systems.
+
+I value **clarity, maintainability, and continuous learning**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,nodejs,git,vscode,pycharm&theme=dark"/>
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,mysql,git,vscode,pycharm&theme=dark"/>
 </div>
 
 ---
 
-# 🚀 What I Do
+## 📌 Areas of Focus
 
-- 🧠 Backend development in **Python & JS**  
-- 🌐 Web development (HTML, CSS, JS)  
-- 🔧 Automation scripts  
-- 💾 Databases with **MySQL**  
-- 📱 Creative and modern interfaces  
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-  
-![Ryan's GitHub stats](https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github)
-
-![Top Langs](https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true)
-
-</div>
+- Backend development with **Python & JavaScript**
+- Web development using **HTML, CSS, and JS**
+- Automation and scripting
+- Relational databases (**MySQL**)
+- Clean and responsive interfaces
 
 ---
 
-# ⏱️ Coding Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![WakaTime stats](https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)
+<img src="https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+## ⏱️ Development Activity
 
-# 🌍 Personal Info
-
-- 🎓 **Computer Science student**  
-- 🖥️ Passionate about software development  
-- 🐱 Cat lover & nature enjoyer  
-
----
-
-## 🔗 Contact
 <div align="center">
-  <a href="https://github.com/p1poca2F3136"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://discord.com/users/aryc5353"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" /></a>
+
+<img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
+## 📍 Profile
+
+- 🎓 Computer Science student
+- 💻 Software development enthusiast
+- 🐱 Cat lover
+
+---
+
+## 🔗 Links
+
 <div align="center">
-
-### 🚀 If you give up, you’ll let them win.
-
+  <a href="https://github.com/p1poca2F3136">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/users/aryc5353">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
 </div>
