@@ -54,36 +54,6 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 ---
 
-# 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ryanalexandre19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-
-![Ryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanalexandre19&theme=tokyo-night&hide_border=true)
-
-
-</div>
-
----
-
-
-# 🌺 More Metrics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryanalexandre19&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 # 🌍 Personal Info
 
