@@ -20,52 +20,5 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 </div>
 
----
-
-# 🚀 What I Do
-
-- 🧠 Backend development in **Python & JS**  
-- 🌐 Web development (HTML, CSS, JS)  
-- 🔧 Automation scripts  
-- 💾 Databases with **MySQL**  
-- 📱 Creative and modern interfaces  
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-  
-![Ryan's GitHub stats](https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github)
-
-![Top Langs](https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# ⏱️ Coding Activity
-
-<div align="center">
-
-![WakaTime stats](https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-
-# 🌍 Personal Info
-
-- 🎓 **Computer Science student**  
-- 🖥️ Passionate about software development  
-- 🐱 Cat lover & nature enjoyer  
-
----
-
-
-<div align="center">
-
-### 🚀 If you give up, you’ll let them win.
 
 </div>
