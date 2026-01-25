@@ -22,11 +22,22 @@
 </table>
 
 
-![Ryan's GitHub stats](https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github)
 
-![Top Langs](https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="180" alt="Ryan's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 ---
 
