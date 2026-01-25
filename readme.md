@@ -12,9 +12,6 @@
   <pre>
 Hello! I'm Ryan, a Computer Science student passionate about 
 building modern and functional solutions using Python, JavaScript, HTML, and CSS.
-
-I love exploring new technologies, building bots, websites, and automations, 
-and constantly improving my skills.
   </pre>
 
   <br />
