@@ -3,11 +3,6 @@
 
   <br />
 
-  <a href="https://ryanbarboza.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_%2F_Blog-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
 
 ---
 
