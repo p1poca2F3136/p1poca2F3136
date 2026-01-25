@@ -28,6 +28,8 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 <br />
 
+
 <div align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdzone.com%2Farticles%2Freality-developers-life-gifs&ved=0CBUQjRxqFwoTCLDjpfmzpZIDFQAAAAAdAAAAABA-&opi=89978449" width="300" alt="Coding GIF" />
+  <h3>Thanks for visiting!</h3>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat Gif" />
 </div>
