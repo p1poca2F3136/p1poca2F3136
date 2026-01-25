@@ -29,6 +29,6 @@ I love exploring new technologies, building bots, websites, and automations, and
 
 
 <div align="center">
-  <h3>Thanks for visiting!</h3>
+  <h3></h3>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat Gif" />
 </div>
