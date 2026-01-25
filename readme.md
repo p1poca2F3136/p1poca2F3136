@@ -20,3 +20,53 @@
     </td>
   </tr>
 </table>
+
+
+![Ryan's GitHub stats](https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github)
+
+![Top Langs](https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# ⏱️ Coding Activity
+
+<div align="center">
+
+![WakaTime stats](https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ryanalexandre19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+
+![Ryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanalexandre19&theme=tokyo-night&hide_border=true)
+
+
+</div>
+
+---
+
+
+# 🌺 More Metrics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ryanalexandre19&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
