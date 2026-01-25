@@ -9,27 +9,12 @@
 
   <br /><br />
 
-  <p>
-    Hello! I'm <b>Ryan</b> 👋 <br>
-    A <b>Computer Science student</b> passionate about building modern and functional solutions.
-  </p>
-  
-  <p>
-    I love exploring new technologies, building <b>bots, websites, and automations</b>, <br>
-    and constantly improving my skills! 🚀
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  </p>
-
-  <br />
-
+  <img width="600" src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180"><rect x="5" y="5" width="590" height="170" rx="15" ry="15" fill="%23e6f7ff" stroke="%2300BFFF" stroke-width="2"/><foreignObject x="20" y="20" width="560" height="150"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Segoe UI, Helvetica, Arial, sans-serif; text-align:center; color:%23333333; font-size:16px; line-height:1.5;">
+    Hello! I&#39;m <b>Ryan</b>, a <b>Computer Science student</b> passionate about building modern and functional solutions using <b>Python, JavaScript, HTML, and CSS</b>.<br/><br/>
+    I love exploring new technologies, building bots, websites, and automations, and constantly improving my skills.
+  </div></foreignObject></svg>' alt="About Ryan box" />
 
   <br /><br />
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat Gif" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat Gif" />
 </div>
