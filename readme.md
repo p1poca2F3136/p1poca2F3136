@@ -46,37 +46,3 @@
   <h2>⏱️ Coding Activity</h2>
   <img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true&langs_count=7" alt="WakaTime stats" />
 </div>
-
-
----
-
-# 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ryanalexandre19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-
-![Ryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanalexandre19&theme=tokyo-night&hide_border=true)
-
-
-</div>
-
----
-
-
-# 🌺 More Metrics
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ryanalexandre19&theme=tokyonight&hide_border=true)
-
-</div>
-
----
