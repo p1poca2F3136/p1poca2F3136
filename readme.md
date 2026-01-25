@@ -9,17 +9,13 @@
 
   <br /><br />
 
-  <table>
-    <tr>
-      <td align="center">
-        Hello! I'm Ryan, a Computer Science student <br />
-        passionate about building modern and functional <br />
-        solutions using Python, JavaScript, HTML, and CSS.
-      </td>
-    </tr>
-  </table>
+  <code>
+    Hello! I'm Ryan, a Computer Science student <br/>
+    passionate about building modern and functional <br/>
+    solutions using Python, JavaScript, HTML, and CSS.
+  </code>
 
-  <br />
+  <br /><br />
 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat Gif" />
 </div>
