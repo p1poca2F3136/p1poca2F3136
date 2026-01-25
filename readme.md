@@ -27,3 +27,7 @@ I love exploring new technologies, building bots, websites, and automations, and
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdzone.com%2Farticles%2Freality-developers-life-gifs&ved=0CBUQjRxqFwoTCLDjpfmzpZIDFQAAAAAdAAAAABA-&opi=89978449" width="300" alt="Coding GIF" />
+</div>
