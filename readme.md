@@ -9,12 +9,15 @@
 
   <br /><br />
 
-
-  <pre>
-Hello! I'm Ryan, a Computer Science student
-passionate about building modern and functional
-solutions using Python, JavaScript, HTML, and CSS.
-  </pre>
+  <table>
+    <tr>
+      <td align="center">
+        Hello! I'm Ryan, a Computer Science student <br />
+        passionate about building modern and functional <br />
+        solutions using Python, JavaScript, HTML, and CSS.
+      </td>
+    </tr>
+  </table>
 
   <br />
 
