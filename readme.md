@@ -9,7 +9,7 @@
     <td width="70%" valign="top">
       <h1>☕ About Me</h1>
       <p>
-        Hello! I'm <b>Ryan Alexandre</b>, a <b>Computer Science student</b> passionate about building modern and functional solutions using <b>Python, JavaScript, HTML, and CSS</b>.
+        Hello! I'm <b>Ryan</b>, a <b>Computer Science student</b> passionate about building modern and functional solutions using <b>Python, JavaScript, HTML, and CSS</b>.
       </p>
       <p>
         I love exploring new technologies, building bots, websites, and automations, and constantly improving my skills.
