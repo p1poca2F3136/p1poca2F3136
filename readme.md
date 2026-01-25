@@ -7,16 +7,30 @@
     <img src="https://img.shields.io/badge/🌐_Portfolio_%2F_Blog-00BFFF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 
-</div>
+  <br /><br />
 
----
+  <p>
+    Hello! I'm <b>Ryan</b> 👋 <br>
+    A <b>Computer Science student</b> passionate about building modern and functional solutions.
+  </p>
+  
+  <p>
+    I love exploring new technologies, building <b>bots, websites, and automations</b>, <br>
+    and constantly improving my skills! 🚀
+  </p>
 
-Hello! I'm **Ryan**, a **Computer Science student** passionate about building modern and functional solutions using **Python, JavaScript, HTML, and CSS**.  
-I love exploring new technologies, building bots, websites, and automations, and constantly improving my skills.
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  </p>
 
----
+  <br />
 
-<div align="center">
-  <h3></h3>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat Gif" />
+  ✧･ﾟ: *✧･ﾟ:*
+
+  <br /><br />
+
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat Gif" />
 </div>
