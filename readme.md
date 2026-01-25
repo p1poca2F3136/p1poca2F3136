@@ -51,8 +51,15 @@
 
 
 
-
 <div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Ryanalexandre19&style=flat-square&color=blue" alt="Profile Views" />
+  <h2>📫 Connect with Me</h2>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
