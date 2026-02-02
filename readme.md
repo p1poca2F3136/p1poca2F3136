@@ -37,7 +37,7 @@
 
 
 <div align="center">
-  <h2>⏱️ Coding Activity</h2>
+  <h2></h2>
   <img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true&langs_count=7" alt="WakaTime stats" />
 </div>
 
