@@ -41,6 +41,13 @@
   <img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true&langs_count=7" alt="WakaTime stats" />
 </div>
 
+
+<div align="center">
+  <h2>💻 Operating Systems</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RyanDev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+
 ---
 
 <div align="center">
