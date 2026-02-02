@@ -21,6 +21,10 @@
   </tr>
 </table>
 
+
+---
+
+
 <div align="center">
   <table>
     <tr>
@@ -31,7 +35,6 @@
   </table>
 </div>
 
----
 
 <div align="center">
   <h2>⏱️ Coding Activity</h2>
