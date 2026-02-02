@@ -21,36 +21,24 @@
   </tr>
 </table>
 
-
-
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="180" alt="Ryan's GitHub Stats" />
       </td>
-      <td align="center">
-        <img src="https://teste-rust-zeta.vercel.app/api/top-langs/?username=Ryanalexandre19&layout=donut&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
-      </td>
     </tr>
   </table>
 </div>
 
-
-
-
 ---
-
 
 <div align="center">
   <h2>⏱️ Coding Activity</h2>
   <img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true&langs_count=7" alt="WakaTime stats" />
 </div>
 
-
-
 ---
-
 
 <div align="center">
   <h2>📫 Connect with Me</h2>
