@@ -1,4 +1,4 @@
-<div align="center">
+tivesse<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ryan+Alexandre!;Computer+Science+Student;Python+%7C+JavaScript+Developer;Always+learning+new+techs!" />
 </div>
 
@@ -31,12 +31,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-
-<div align="center">
-  <h2></h2>
-  <img src="https://teste-rust-zeta.vercel.app/api/wakatime?username=RyanDev&theme=tokyonight&hide_border=true&langs_count=7" alt="WakaTime stats" />
 </div>
 
 ---
