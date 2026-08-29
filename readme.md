@@ -21,15 +21,3 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://teste-rust-zeta.vercel.app/api?username=Ryanalexandre19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&rank_icon=github" height="180" alt="Ryan's GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
